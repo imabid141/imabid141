@@ -49,7 +49,7 @@ Architectural blueprint for an agent-driven SOC automation system.
 ### Agentic-Purple-SOC  [(Running)](https://github.com/imabid141/Agentic-Purple-SOC)
 Research-oriented project exploring AI-driven offensive and defensive workflows.
 
-### LangChain-Models-DeepDive  
+### LangChain-Models-DeepDive  [(Complete)](https://github.com/imabid141/LangChain-Models-DeepDive)
 Hands-on exploration of LangChain patterns, structured outputs, and reasoning flows.
 
 ---
