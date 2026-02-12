@@ -46,7 +46,7 @@ I am currently mastering **LangChain and LangGraph** to build production-ready A
 ### Aegis-Zero-SOC  [(Running)](https://github.com/imabid141/Aegis-Zero-SOC)
 Architectural blueprint for an agent-driven SOC automation system.
 
-### Agentic-Purple-SOC  
+### Agentic-Purple-SOC  [(Running)](https://github.com/imabid141/Agentic-Purple-SOC)
 Research-oriented project exploring AI-driven offensive and defensive workflows.
 
 ### LangChain-Models-DeepDive  
