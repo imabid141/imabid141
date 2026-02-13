@@ -102,4 +102,7 @@ Open to collaborating on:
 - AI-driven cybersecurity research
 - SOC automation frameworks
 - Agent-based system design
-- Open-source security infrastructure.
+- Open-source security infrastructure
+- How to reach me: ghmuhammad324@gmail.com
+- Happy Learning
+
