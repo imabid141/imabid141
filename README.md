@@ -1,4 +1,4 @@
-# Hello, I'm Ghulam Muhammad
+# Hi there 👋 I am Ghulam Muhammad
 ### AI-Driven Blue Team Engineer | Building Agentic SOC Automation
 
 **Core Stack:** LangChain | LangGraph | Python | Docker | Wazuh | Linux  
