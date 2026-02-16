@@ -22,8 +22,6 @@ I am currently mastering **LangChain and LangGraph** to build production-ready A
 
 ## 🎯 Current Focus
 
-- LangChain (LCEL, Chains, Agents)
-- Structured outputs & tool calling
 - Multi-agent orchestration (LangGraph)
 - Observability with LangSmith
 - Applying LLM reasoning to security log analysis
@@ -76,7 +74,6 @@ Structured, Explainable SOC Report
 
 - [x] Python & Security Foundations
 - [x] SOC Concepts
-- [ ] Advanced LangChain Architectures
 - [ ] Multi-Agent Systems (LangGraph)
 - [ ] RAG for Security Logs
 - [ ] Dockerized AI-SOC Deployment
